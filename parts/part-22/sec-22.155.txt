@@ -1,0 +1,7 @@
+Title 14 CFR — Part 22—DESIGN, PRODUCTION, AND AIRWORTHINESS REQUIREMENTS FOR NON-TYPE CERTIFICATED AIRCRAFT
+Subpart B—Light-Sport Category Aircraft
+## § 22.155 Fire protection.
+
+§ 22.155 Fire protection.
+
+The hazards of fuel or electrical fires following a survivable emergency landing must be minimized by incorporating design features to sustain static and dynamic deceleration loads without structural damage to fuel or electrical system components or their attachments that would leak fuel to an ignition source or allow electrical power to become an ignition source.

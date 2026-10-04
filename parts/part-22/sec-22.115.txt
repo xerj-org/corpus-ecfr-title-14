@@ -1,0 +1,7 @@
+Title 14 CFR — Part 22—DESIGN, PRODUCTION, AND AIRWORTHINESS REQUIREMENTS FOR NON-TYPE CERTIFICATED AIRCRAFT
+Subpart B—Light-Sport Category Aircraft
+## § 22.115 Powered-lift: minimum safe speed.
+
+§ 22.115 Powered-lift: minimum safe speed.
+
+To be certificated in the light-sport category, powered-lift must have a known minimum safe speed for each flight condition encountered in normal operations, including applicable sources of lift and phases of flight, to maintain controlled safe flight. The minimum safe speed determination must account for the most adverse conditions for each configuration.

@@ -1,0 +1,9 @@
+Title 14 CFR — Part 29—AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY ROTORCRAFT
+Flight Characteristics
+## § 29.181 Dynamic stability: Category A rotorcraft.
+
+§ 29.181 Dynamic stability: Category A rotorcraft.
+
+Any short-period oscillation occurring at any speed from V Y to V NE must be positively damped with the primary flight controls free and in a fixed position.
+
+[Amdt. 29-24, 49 FR 44437, Nov. 6, 1984]

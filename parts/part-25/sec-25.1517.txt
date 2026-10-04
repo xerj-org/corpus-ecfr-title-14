@@ -1,0 +1,13 @@
+Title 14 CFR — Part 25—AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES
+Operating Limitations
+## § 25.1517 Rough air speed, V
+
+§ 25.1517 Rough air speed, V RA.
+
+(a) A rough air speed, V RA, for use as the recommended turbulence penetration airspeed, and a rough air Mach number, M RA , for use as the recommended turbulence penetration Mach number, must be established. V RA /M RA must be sufficiently less than V MO /M MO to ensure that likely speed variation during rough air encounters will not cause the overspeed warning to operate too frequently.
+
+(b) At altitudes where V MO is not limited by Mach number, in the absence of a rational investigation substantiating the use of other values, V RA must be less than V MO minus 35 KTAS.
+
+(c) At altitudes where V MO is limited by Mach number, M RA may be chosen to provide an optimum margin between low and high speed buffet boundaries.
+
+[Amdt. 25-141, 79 FR 73469, Dec. 11, 2014, as amended by FAA-2022-1355; Amdt. No. 25-148, 87 FR 75710, Dec. 9, 2022; 88 FR 2813, Jan. 18, 2023]

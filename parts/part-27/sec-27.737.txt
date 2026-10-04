@@ -1,0 +1,7 @@
+Title 14 CFR — Part 27—AIRWORTHINESS STANDARDS: NORMAL CATEGORY ROTORCRAFT
+Landing Gear
+## § 27.737 Skis.
+
+§ 27.737 Skis.
+
+The maximum limit load rating of each ski must equal or exceed the maximum limit load determined under the applicable ground load requirements of this part.

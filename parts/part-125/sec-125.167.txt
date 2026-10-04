@@ -1,0 +1,7 @@
+Title 14 CFR — Part 125—CERTIFICATION AND OPERATIONS: AIRCRAFT HAVING A SEATING CAPACITY OF 20 OR MORE PASSENGERS OR A MAXIMUM PAYLOAD CAPACITY OF 6,000 POUNDS OR MORE; AND RULES GOVERNING PERSONS ON BOARD SUCH AIRCRAFT
+Subpart E—Special Airworthiness Requirements
+## § 125.167 Extinguishing agent container compartment temperature.
+
+§ 125.167 Extinguishing agent container compartment temperature.
+
+Precautions must be taken to ensure that the extinguishing agent containers are installed in places where reasonable temperatures can be maintained for effective use of the extinguishing system.

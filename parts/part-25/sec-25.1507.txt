@@ -1,0 +1,7 @@
+Title 14 CFR — Part 25—AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES
+Operating Limitations
+## § 25.1507 Maneuvering speed.
+
+§ 25.1507 Maneuvering speed.
+
+The maneuvering speed must be established so that it does not exceed the design maneuvering speed V A determined under § 25.335(c).

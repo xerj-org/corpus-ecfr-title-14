@@ -1,0 +1,9 @@
+Title 14 CFR — Part 1216—ENVIRONMENTAL QUALITY
+Subpart 1216.6—Efficient Environmental Reviews
+## § 1216.605 Integrity and completeness of information.
+
+§ 1216.605 Integrity and completeness of information.
+
+(a) NASA will not undertake new scientific and technical research to inform its analyses unless it is essential to a reasoned choice among alternatives and the overall costs and time frame of such undertaking are not unreasonable. Rather, NASA will make use of reliable existing data and resources.
+
+(b) When NASA is evaluating an action's reasonably foreseeable effects on the human environment, and there is incomplete or unavailable information that cannot be obtained at a reasonable cost or the means to obtain it are unknown, NASA will make clear in the relevant NEPA document that such information is lacking.

@@ -1,0 +1,7 @@
+Title 14 CFR — Part 125—CERTIFICATION AND OPERATIONS: AIRCRAFT HAVING A SEATING CAPACITY OF 20 OR MORE PASSENGERS OR A MAXIMUM PAYLOAD CAPACITY OF 6,000 POUNDS OR MORE; AND RULES GOVERNING PERSONS ON BOARD SUCH AIRCRAFT
+Subpart E—Special Airworthiness Requirements
+## § 125.159 Vent and drain lines.
+
+§ 125.159 Vent and drain lines.
+
+All vent and drain lines, and their fittings, that are located in a designated fire zone must, if they carry flammable fluids or gases, comply with § 125.157, if the Administrator finds that the rupture or breakage of any vent or drain line may result in a fire hazard.

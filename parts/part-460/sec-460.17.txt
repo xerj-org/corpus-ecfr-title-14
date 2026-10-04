@@ -1,0 +1,7 @@
+Title 14 CFR — Part 460—HUMAN SPACE FLIGHT REQUIREMENTS
+Subpart A—Launch and Reentry with Crew
+## § 460.17 Verification program.
+
+§ 460.17 Verification program.
+
+An operator must successfully verify the integrated performance of a vehicle's hardware and any software in an operational flight environment before allowing any space flight participant on board during a flight. Verification must include flight testing.

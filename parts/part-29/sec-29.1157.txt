@@ -1,0 +1,7 @@
+Title 14 CFR — Part 29—AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY ROTORCRAFT
+Powerplant Controls and Accessories
+## § 29.1157 Carburetor air temperature controls.
+
+§ 29.1157 Carburetor air temperature controls.
+
+There must be a separate carburetor air temperature control for each engine.

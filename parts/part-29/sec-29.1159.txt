@@ -1,0 +1,11 @@
+Title 14 CFR — Part 29—AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY ROTORCRAFT
+Powerplant Controls and Accessories
+## § 29.1159 Supercharger controls.
+
+§ 29.1159 Supercharger controls.
+
+Each supercharger control must be accessible to—
+
+(a) The pilots; or
+
+(b) (If there is a separate flight engineer station with a control panel) the flight engineer.

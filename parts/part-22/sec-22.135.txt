@@ -1,0 +1,11 @@
+Title 14 CFR — Part 22—DESIGN, PRODUCTION, AND AIRWORTHINESS REQUIREMENTS FOR NON-TYPE CERTIFICATED AIRCRAFT
+Subpart B—Light-Sport Category Aircraft
+## § 22.135 Instruments and equipment.
+
+§ 22.135 Instruments and equipment.
+
+(a) The aircraft must have all instruments and equipment necessary for safe flight, to include those instruments necessary for systems control and management.
+
+(b) The aircraft must include all instruments and equipment required for the kinds of operations for which it is authorized.
+
+(c) The aircraft's, instruments, equipment, and systems must perform their intended functions under all operating conditions specified in the pilot's operating handbook. Likely failure or malfunction of equipment or a system must not cause loss of control of the aircraft. Equipment and systems must be considered separately and in relation to each other.

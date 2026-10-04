@@ -1,0 +1,7 @@
+Title 14 CFR — Part 1203—INFORMATION SECURITY PROGRAM
+Subpart C—Classification Principles and Considerations
+## § 1203.300 General.
+
+§ 1203.300 General.
+
+In general, the types of NASA-generated information and material requiring protection in the interest of national security lie in the areas of applied research, technology or operations.

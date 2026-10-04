@@ -1,0 +1,15 @@
+Title 14 CFR — Part 22—DESIGN, PRODUCTION, AND AIRWORTHINESS REQUIREMENTS FOR NON-TYPE CERTIFICATED AIRCRAFT
+Subpart B—Light-Sport Category Aircraft
+## § 22.195 Ground and flight testing.
+
+§ 22.195 Ground and flight testing.
+
+The aircraft must have been ground and flight tested under documented production acceptance test procedures to—
+
+(a) Verify aircraft performance data;
+
+(b) Ensure the aircraft has no hazardous operating characteristics;
+
+(c) Ensure the aircraft is in a condition for safe operation; and
+
+(d) Ensure the aircraft can safely conduct towing and any aerial work operation designated by the manufacturer.

@@ -1,0 +1,9 @@
+Title 14 CFR — Part 22—DESIGN, PRODUCTION, AND AIRWORTHINESS REQUIREMENTS FOR NON-TYPE CERTIFICATED AIRCRAFT
+Subpart B—Light-Sport Category Aircraft
+## § 22.110 Structural integrity.
+
+§ 22.110 Structural integrity.
+
+(a) The design and construction of the aircraft must provide sufficient structural integrity to enable safe operations within the aircraft's flight envelope throughout the aircraft's intended life cycle; and
+
+(b) The aircraft must be able to withstand all likely flight and ground loads, including towing and any aerial work operation, when operated within its operational limits.

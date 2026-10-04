@@ -1,0 +1,7 @@
+Title 14 CFR — Part 29—AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY ROTORCRAFT
+Rotor Drive System
+## § 29.935 Shafting joints.
+
+§ 29.935 Shafting joints.
+
+Each universal joint, slip joint, and other shafting joints whose lubrication is necessary for operation must have provision for lubrication.

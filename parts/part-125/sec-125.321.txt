@@ -1,0 +1,9 @@
+Title 14 CFR — Part 125—CERTIFICATION AND OPERATIONS: AIRCRAFT HAVING A SEATING CAPACITY OF 20 OR MORE PASSENGERS OR A MAXIMUM PAYLOAD CAPACITY OF 6,000 POUNDS OR MORE; AND RULES GOVERNING PERSONS ON BOARD SUCH AIRCRAFT
+Subpart J—Flight Operations
+## § 125.321 Reporting potentially hazardous meteorological conditions and irregularities of ground and navigation facilities.
+
+§ 125.321 Reporting potentially hazardous meteorological conditions and irregularities of ground and navigation facilities.
+
+Whenever the pilot in command encounters a meteorological condition or an irregularity in a ground facility or navigation aid in flight, the knowledge of which the pilot in command considers essential to the safety of other flights, the pilot in command shall notify an appropriate ground station as soon as practicable.
+
+[Docket 19779, 45 FR 67235, Oct. 9, 1980, as amended by Amdt. 125-52, 72 FR 31683, June 7, 2007]

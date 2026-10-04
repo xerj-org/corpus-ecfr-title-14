@@ -1,0 +1,7 @@
+Title 14 CFR — Part 25—AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES
+Induction System
+## § 25.1107 Inter-coolers and after-coolers.
+
+§ 25.1107 Inter-coolers and after-coolers.
+
+Each inter-cooler and after-cooler must be able to withstand any vibration, inertia, and air pressure load to which it would be subjected in operation.

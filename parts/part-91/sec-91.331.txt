@@ -1,0 +1,27 @@
+Title 14 CFR — Part 91—GENERAL OPERATING AND FLIGHT RULES
+Subpart D—Special Flight Operations
+## § 91.331 Space support vehicle flights: Operating limitations.
+
+§ 91.331 Space support vehicle flights: Operating limitations.
+
+(a) A person may operate an aircraft to conduct a space support vehicle flight carrying persons or property for compensation or hire provided—
+
+(1) The aircraft has a special airworthiness certificate issued under § 21.191 of this chapter.
+
+(2) The aircraft conducting the space support vehicle flight—
+
+(i) Takes flight and lands at a single launch or reentry site that is operated by an entity licensed to operate the launch or reentry site under 51 U.S.C. chapter 509;
+
+(ii) Is owned or operated by a launch or reentry vehicle operator licensed under 51 U.S.C. chapter 509, or on behalf of a launch or reentry vehicle operator licensed under 51 U.S.C. chapter 509;
+
+(iii) Is a launch vehicle, a reentry vehicle, or a component of a launch or reentry vehicle licensed for operations pursuant to 51 U.S.C. chapter 509; and
+
+(iv) Is used only to simulate space flight conditions in support of—
+
+(A) Training for potential space flight participants, government astronauts, or crew (as those terms are defined in 51 U.S.C. chapter 509);
+
+(B) The testing of hardware to be used in space flight; or
+
+(C) Research and development tasks, which require the unique capabilities of the aircraft conducting the flight.
+
+(b) The Administrator may prescribe additional operating limitations that the Administrator considers necessary in the interest of safety.

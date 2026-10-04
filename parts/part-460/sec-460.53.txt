@@ -1,0 +1,7 @@
+Title 14 CFR — Part 460—HUMAN SPACE FLIGHT REQUIREMENTS
+Subpart B—Launch and Reentry with a Space Flight participant
+## § 460.53 Security.
+
+§ 460.53 Security.
+
+An operator must implement security requirements to prevent any space flight participant from jeopardizing the safety of the flight crew or the public. A space flight participant may not carry on board any explosives, firearms, knives, or other weapons.

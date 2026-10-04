@@ -1,0 +1,15 @@
+Title 14 CFR — Part 22—DESIGN, PRODUCTION, AND AIRWORTHINESS REQUIREMENTS FOR NON-TYPE CERTIFICATED AIRCRAFT
+Subpart B—Light-Sport Category Aircraft
+## § 22.145 Propulsion system.
+
+§ 22.145 Propulsion system.
+
+The aircraft propulsion system must—
+
+(a) Have controls that are simple, intuitive, and not confusing;
+
+(b) Be designed so that the failure of any product or article does not prevent continued safe flight and landing or, if continued safe flight and landing cannot be ensured, the hazard has been minimized;
+
+(c) Not exceed safe operating limits under normal operating conditions; and
+
+(d) Have the necessary reliability, durability, and endurance for safe flight without failure, malfunction, excessive wear, or other anomalies.

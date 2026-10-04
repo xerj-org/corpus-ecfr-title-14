@@ -1,0 +1,7 @@
+Title 14 CFR — Part 125—CERTIFICATION AND OPERATIONS: AIRCRAFT HAVING A SEATING CAPACITY OF 20 OR MORE PASSENGERS OR A MAXIMUM PAYLOAD CAPACITY OF 6,000 POUNDS OR MORE; AND RULES GOVERNING PERSONS ON BOARD SUCH AIRCRAFT
+Subpart E—Special Airworthiness Requirements
+## § 125.143 Firewalls.
+
+§ 125.143 Firewalls.
+
+Each engine, auxiliary power unit, fuel-burning heater, or other item of combusting equipment that is intended for operation in flight must be isolated from the rest of the airplane by means of firewalls or shrouds, or by other equivalent means.

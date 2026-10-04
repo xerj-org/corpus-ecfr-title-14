@@ -1,0 +1,13 @@
+Title 14 CFR — Part 29—AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY ROTORCRAFT
+General
+## § 29.611 Inspection provisions.
+
+§ 29.611 Inspection provisions.
+
+There must be means to allow close examination of each part that requires—
+
+(a) Recurring inspection;
+
+(b) Adjustment for proper alignment and functioning; or
+
+(c) Lubrication.

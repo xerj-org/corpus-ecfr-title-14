@@ -1,0 +1,7 @@
+Title 14 CFR — Part 125—CERTIFICATION AND OPERATIONS: AIRCRAFT HAVING A SEATING CAPACITY OF 20 OR MORE PASSENGERS OR A MAXIMUM PAYLOAD CAPACITY OF 6,000 POUNDS OR MORE; AND RULES GOVERNING PERSONS ON BOARD SUCH AIRCRAFT
+Subpart E—Special Airworthiness Requirements
+## § 125.115 Internal doors.
+
+§ 125.115 Internal doors.
+
+In any case where internal doors are equipped with louvres or other ventilating means, there must be a means convenient to the crew for closing the flow of air through the door when necessary.

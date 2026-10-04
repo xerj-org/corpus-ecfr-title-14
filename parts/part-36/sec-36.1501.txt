@@ -1,0 +1,15 @@
+Title 14 CFR — Part 36—NOISE STANDARDS: AIRCRAFT TYPE AND AIRWORTHINESS CERTIFICATION
+Subpart O—Documentation, Operating Limitations and Information
+## § 36.1501 Procedures, noise levels and other information.
+
+§ 36.1501 Procedures, noise levels and other information.
+
+(a) All procedures, weights, configurations, and other information or data employed for obtaining the certified noise levels prescribed by this part, including equivalent procedures used for flight, testing, and analysis, must:
+
+(1) For type certificated aircraft, be developed by the applicant and approved by the FAA. Noise levels achieved during type certification must be included in the aircraft's approved flight manual.
+
+(2) For aircraft without a type certificate, be provided by the applicant to the FAA.
+
+(b) Where supplemental test data are approved for modification or extension of an existing flight data base, such as acoustic data from engine static tests used in the certification of acoustical changes, the test procedures, physical configuration, and other information and procedures that are employed for obtaining the supplemental data must be developed and approved.
+
+[Amdt. 36-15, 53 FR 16366, May 6, 1988, as amended by Amdt. No. 36-55, 90 FR 35210, July 24, 2025]

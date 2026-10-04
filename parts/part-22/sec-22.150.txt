@@ -1,0 +1,11 @@
+Title 14 CFR — Part 22—DESIGN, PRODUCTION, AND AIRWORTHINESS REQUIREMENTS FOR NON-TYPE CERTIFICATED AIRCRAFT
+Subpart B—Light-Sport Category Aircraft
+## § 22.150 Fuel system.
+
+§ 22.150 Fuel system.
+
+The aircraft fuel system must—
+
+(a) Provide a means to safely remove or isolate the fuel stored in the system from the aircraft; and
+
+(b) Be designed to retain fuel under all likely operating conditions.

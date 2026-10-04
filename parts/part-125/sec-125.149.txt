@@ -1,0 +1,7 @@
+Title 14 CFR — Part 125—CERTIFICATION AND OPERATIONS: AIRCRAFT HAVING A SEATING CAPACITY OF 20 OR MORE PASSENGERS OR A MAXIMUM PAYLOAD CAPACITY OF 6,000 POUNDS OR MORE; AND RULES GOVERNING PERSONS ON BOARD SUCH AIRCRAFT
+Subpart E—Special Airworthiness Requirements
+## § 125.149 Engine accessory section diaphragm.
+
+§ 125.149 Engine accessory section diaphragm.
+
+Unless equivalent protection can be shown by other means, a diaphragm that complies with § 125.145 must be provided on air-cooled engines to isolate the engine power section and all parts of the exhaust system from the engine accessory compartment.

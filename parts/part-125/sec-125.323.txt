@@ -1,0 +1,7 @@
+Title 14 CFR — Part 125—CERTIFICATION AND OPERATIONS: AIRCRAFT HAVING A SEATING CAPACITY OF 20 OR MORE PASSENGERS OR A MAXIMUM PAYLOAD CAPACITY OF 6,000 POUNDS OR MORE; AND RULES GOVERNING PERSONS ON BOARD SUCH AIRCRAFT
+Subpart J—Flight Operations
+## § 125.323 Reporting mechanical irregularities.
+
+§ 125.323 Reporting mechanical irregularities.
+
+The pilot in command shall ensure that all mechanical irregularities occurring during flight are entered in the maintenance log of the airplane at the next place of landing. Before each flight, the pilot in command shall ascertain the status of each irregularity entered in the log at the end of the preceding flight.

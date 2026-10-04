@@ -1,0 +1,7 @@
+Title 14 CFR — Part 27—AIRWORTHINESS STANDARDS: NORMAL CATEGORY ROTORCRAFT
+Markings and Placards
+## § 27.1551 Oil quantity indicator.
+
+§ 27.1551 Oil quantity indicator.
+
+Each oil quantity indicator must be marked with enough increments to indicate readily and accurately the quantity of oil.

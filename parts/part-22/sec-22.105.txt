@@ -1,0 +1,11 @@
+Title 14 CFR — Part 22—DESIGN, PRODUCTION, AND AIRWORTHINESS REQUIREMENTS FOR NON-TYPE CERTIFICATED AIRCRAFT
+Subpart B—Light-Sport Category Aircraft
+## § 22.105 Control and maneuverability.
+
+§ 22.105 Control and maneuverability.
+
+A light-sport category aircraft must—
+
+(a) Be consistently and predictably controllable and maneuverable at all loading conditions during all phases of flight; and,
+
+(b) Not have a tendency to inadvertently depart controlled flight or require exceptional piloting skill, alertness, or strength.

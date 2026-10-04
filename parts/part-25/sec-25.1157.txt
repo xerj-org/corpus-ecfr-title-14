@@ -1,0 +1,7 @@
+Title 14 CFR — Part 25—AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES
+Powerplant Controls and Accessories
+## § 25.1157 Carburetor air temperature controls.
+
+§ 25.1157 Carburetor air temperature controls.
+
+There must be a separate carburetor air temperature control for each engine.

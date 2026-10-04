@@ -1,0 +1,7 @@
+Title 14 CFR — Part 31—AIRWORTHINESS STANDARDS: MANNED FREE BALLOONS
+Subpart C—Strength Requirements
+## § 31.21 Loads.
+
+§ 31.21 Loads.
+
+Strength requirements are specified in terms of limit loads, that are the maximum load to be expected in service, and ultimate loads, that are limit loads multiplied by prescribed factors of safety. Unless otherwise specified, all prescribed loads are limit loads.

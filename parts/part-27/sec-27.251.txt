@@ -1,0 +1,7 @@
+Title 14 CFR — Part 27—AIRWORTHINESS STANDARDS: NORMAL CATEGORY ROTORCRAFT
+Miscellaneous Flight Requirements
+## § 27.251 Vibration.
+
+§ 27.251 Vibration.
+
+Each part of the rotorcraft must be free from excessive vibration under each appropriate speed and power condition.

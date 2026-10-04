@@ -1,0 +1,7 @@
+Title 14 CFR — Part 171—NON-FEDERAL NAVIGATION FACILITIES
+Subpart I—Interim Standard Microwave Landing System (ISMLS)
+## § 171.269 Marker beacon performance requirements.
+
+§ 171.269 Marker beacon performance requirements.
+
+ISMLS marker beacon equipment must meet the performance requirements prescribed in subpart H of this part.

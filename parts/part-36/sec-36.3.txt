@@ -1,0 +1,15 @@
+Title 14 CFR — Part 36—NOISE STANDARDS: AIRCRAFT TYPE AND AIRWORTHINESS CERTIFICATION
+Subpart A—General
+## § 36.3 Compatibility with airworthiness requirements.
+
+§ 36.3 Compatibility with airworthiness requirements.
+
+(a) Each applicant for certification under this part must demonstrate that:
+
+(1) For type certificated aircraft, that the aircraft complies with the airworthiness regulations in this chapter that constitute the type certification basis of the aircraft under all conditions in which compliance with this part is shown; or
+
+(2) For aircraft without a type certificate, that the aircraft complies with all airworthiness requirements applicable to the design of the aircraft under all conditions in which compliance with this part is shown.
+
+(b) Each applicant for certification under this part must show that any procedure used to demonstrate compliance with this part, and any procedure and information for the flight crew developed under this part, are consistent with the requirements of paragraph (a)(1) or (2) of this section.
+
+[Amdt. No. 36-55, 90 FR 35210, July 24, 2025]

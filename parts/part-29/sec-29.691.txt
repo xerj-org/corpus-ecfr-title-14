@@ -1,0 +1,7 @@
+Title 14 CFR — Part 29—AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY ROTORCRAFT
+Control Systems
+## § 29.691 Autorotation control mechanism.
+
+§ 29.691 Autorotation control mechanism.
+
+Each main rotor blade pitch control mechanism must allow rapid entry into autorotation after power failure.

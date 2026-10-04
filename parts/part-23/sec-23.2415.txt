@@ -1,0 +1,9 @@
+Title 14 CFR — Part 23—AIRWORTHINESS STANDARDS: NORMAL CATEGORY AIRPLANES
+Subpart E—Powerplant
+## § 23.2415 Powerplant ice protection.
+
+§ 23.2415 Powerplant ice protection.
+
+(a) The airplane design, including the induction and inlet system, must prevent foreseeable accumulation of ice or snow that adversely affects powerplant operation.
+
+(b) The powerplant installation design must prevent any accumulation of ice or snow that adversely affects powerplant operation, in those icing conditions for which certification is requested.

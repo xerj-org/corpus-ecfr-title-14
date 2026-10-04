@@ -1,0 +1,7 @@
+Title 14 CFR — Part 29—AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY ROTORCRAFT
+Rotorcraft Flight Manual
+## § 29.1589 Loading information.
+
+§ 29.1589 Loading information.
+
+There must be loading instructions for each possible loading condition between the maximum and minimum weights determined under § 29.25 that can result in a center of gravity beyond any extreme prescribed in § 29.27, assuming any probable occupant weights.

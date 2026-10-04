@@ -1,0 +1,7 @@
+Title 14 CFR — Part 460—HUMAN SPACE FLIGHT REQUIREMENTS
+Subpart D—Launch and Reentry with a Government Astronaut Without a Safety-Critical Role
+## § 460.67 Training of government astronauts without a safety-critical role.
+
+§ 460.67 Training of government astronauts without a safety-critical role.
+
+An operator must ensure that each government astronaut without a safety-critical role is trained on how to respond to emergency situations, including smoke, fire, loss of cabin pressure, and emergency exit.

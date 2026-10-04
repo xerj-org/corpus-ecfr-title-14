@@ -1,0 +1,9 @@
+Title 14 CFR — Part 29—AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY ROTORCRAFT
+Powerplant Controls and Accessories
+## § 29.1151 Rotor brake controls.
+
+§ 29.1151 Rotor brake controls.
+
+(a) It must be impossible to apply the rotor brake inadvertently in flight.
+
+(b) There must be means to warn the crew if the rotor brake has not been completely released before takeoff.

@@ -1,0 +1,11 @@
+Title 14 CFR — Part 129—OPERATIONS: FOREIGN AIR CARRIERS AND FOREIGN OPERATORS OF U.S.-REGISTERED AIRCRAFT ENGAGED IN COMMON CARRIAGE
+Subpart A—General
+## § 129.16 Radio Altimeter Systems.
+
+§ 129.16 Radio Altimeter Systems.
+
+(a) After December 30, 2030, unless otherwise authorized by the Administrator, no person may operate an aircraft with 30 or more passenger seats or a payload capacity of more than 7,500 pounds under this part in the airspace of the 48 contiguous United States and the District of Columbia with a radio altimeter unless the radio altimeter system meets the performance requirements of § 91.220(b) of this chapter.
+
+(b) After October 31, 2034, unless otherwise authorized by the Administrator, no person may operate an aircraft under this part in the airspace of the 48 contiguous United States and the District of Columbia with a radio altimeter unless the radio altimeter system meets the performance requirements of § 91.220(b) of this chapter.
+
+[Amdt. No. 129-56, 91 FR 48697, July 31, 2026]

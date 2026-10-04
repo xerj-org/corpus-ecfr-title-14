@@ -1,0 +1,13 @@
+Title 14 CFR — Part 22—DESIGN, PRODUCTION, AND AIRWORTHINESS REQUIREMENTS FOR NON-TYPE CERTIFICATED AIRCRAFT
+Subpart B—Light-Sport Category Aircraft
+## § 22.165 Emergency evacuation.
+
+§ 22.165 Emergency evacuation.
+
+(a) The aircraft must be designed and constructed—
+
+(1) So that all occupants have the ability to rapidly conduct an emergency evacuation; and
+
+(2) Except as provided in paragraph (b) of this section, to account for conditions likely to occur following an emergency landing.
+
+(b) Aircraft not intended for operation on water are not required to account for ditching in an emergency landing.

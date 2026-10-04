@@ -1,0 +1,7 @@
+Title 14 CFR — Part 31—AIRWORTHINESS STANDARDS: MANNED FREE BALLOONS
+Subpart D—Design Construction
+## § 31.51 Ballast.
+
+§ 31.51 Ballast.
+
+Each captive gas balloon must have a means for the safe storage and controlled release of ballast. The ballast must consist of material that, if released during flight, is not hazardous to persons on the ground.

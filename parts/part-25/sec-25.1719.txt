@@ -1,0 +1,7 @@
+Title 14 CFR — Part 25—AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES
+Subpart H—Electrical Wiring Interconnection Systems (EWIS)
+## § 25.1719 Accessibility provisions: EWIS.
+
+§ 25.1719 Accessibility provisions: EWIS.
+
+Access must be provided to allow inspection and replacement of any EWIS component as necessary for continued airworthiness.

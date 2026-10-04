@@ -1,0 +1,7 @@
+Title 14 CFR — Part 22—DESIGN, PRODUCTION, AND AIRWORTHINESS REQUIREMENTS FOR NON-TYPE CERTIFICATED AIRCRAFT
+Subpart B—Light-Sport Category Aircraft
+## § 22.130 Suitability and durability of materials.
+
+§ 22.130 Suitability and durability of materials.
+
+The suitability and durability of materials used for products and articles must account for the likely environmental conditions expected in service, the failure of which could prevent continued safe flight and landing.

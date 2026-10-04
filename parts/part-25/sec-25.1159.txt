@@ -1,0 +1,7 @@
+Title 14 CFR — Part 25—AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES
+Powerplant Controls and Accessories
+## § 25.1159 Supercharger controls.
+
+§ 25.1159 Supercharger controls.
+
+Each supercharger control must be accessible to the pilots or, if there is a separate flight engineer station with a control panel, to the flight engineer.

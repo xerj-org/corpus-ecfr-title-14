@@ -1,0 +1,7 @@
+Title 14 CFR — Part 36—NOISE STANDARDS: AIRCRAFT TYPE AND AIRWORTHINESS CERTIFICATION
+Subpart K—Tiltrotors
+## § 36.1101 Noise measurement and evaluation.
+
+§ 36.1101 Noise measurement and evaluation.
+
+For tiltrotors, the noise generated must be measured and evaluated under Appendix K of this part, or under an approved equivalent procedure.
